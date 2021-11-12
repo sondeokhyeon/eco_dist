@@ -174,7 +174,8 @@ textarea {
  */
 
 button,
-input { /* 1 */
+input {
+  /* 1 */
   overflow: visible;
 }
 
@@ -184,7 +185,8 @@ input { /* 1 */
  */
 
 button,
-select { /* 1 */
+select {
+  /* 1 */
   text-transform: none;
 }
 
@@ -350,9 +352,9 @@ template {
 
 @font-face {
   font-family: "SDGR";
-  src: url("/AppleSDGothicNeoR.4c859733.ttf");
+  src: url("/eco_dist/AppleSDGothicNeoR.4c859733.ttf");
   font-family: "SDGB";
-  src: url("/AppleSDGothicNeoB.29596c2f.ttf");
+  src: url("/eco_dist/AppleSDGothicNeoB.29596c2f.ttf");
 }
 html,
 .root__cont {
